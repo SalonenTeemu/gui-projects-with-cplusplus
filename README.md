@@ -1,6 +1,6 @@
 # gui-projects-with-cplusplus
 
-This repository contains some games and other gui applications implemented with C++.
+This repository contains some games and other gui applications implemented with C++ as independent course exercises.
 
 ## Running the applications
 
